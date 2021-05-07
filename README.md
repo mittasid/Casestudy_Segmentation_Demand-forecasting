@@ -14,3 +14,9 @@ fiscal year. Leverage the attached Store Sales Data for the same.
 Please state forecast accuracy metrics on your presentation as well. Ideal would be to compare multiple
 forecasting methods/approaches/algorithms and finalize one approach which provides the best
 forecast.
+
+## Result
+
+xgeboost proved to be the model with the highest accuracy as shown below:
+Accuracy: 87.10 %
+Standard Deviation: 3.86 %
